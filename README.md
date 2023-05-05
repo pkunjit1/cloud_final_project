@@ -1,2 +1,2 @@
 # cloud_final_project
-The file convert.py is the python file used in lambda function for the media conversion job.
+The files convert.py and job.json are the files used in lambda function for the media conversion job.
